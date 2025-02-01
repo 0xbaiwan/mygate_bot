@@ -27,8 +27,8 @@
 
 1. 克隆仓库：
     ```sh
-    git clone https://github.com/Zlkcyber/mygateBot.git
-    cd mygateBot
+    git clone https://github.com/0xbaiwan/mygate_bot
+    cd mygate_bot
     ```
 
 2. 安装依赖包：
